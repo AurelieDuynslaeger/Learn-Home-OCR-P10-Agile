@@ -31,9 +31,9 @@ J'ai aussi du créer des maquettes du site en utilisant Figma. Elles ont servi d
 Et enfin j'ai élaboré un tableau Kanban détaillé, divisant le projet en blocs de fonctionnalités et sous-fonctionnalités, ce qui a permis de structurer le développement et faciliter le suivi du projet.
 
 
- <!-- <img src="billed_homepage.png" alt="homepage" width="500">
- <img src="NotionBugsReport.png" alt="homepage" width="500">
- <img src="./tests/test pass bill and login.png" alt="homepage" width="500"> -->
+ <img src="OverviewPrez.png" alt="homepage" width="500">
+ <img src="HomePage_design.png" alt="homepage" width="500">
+ <img src="trello_kanban.png" alt="homepage" width="500">
 
 
 ## Langages utilisés et autres technologies utilisées
